@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<bpmn:definitions xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL" id="EAPK_BA288259_84C6_4bbe_817F_EE982AC35590" targetNamespace="www.sparxsystems.com.au/bpmn20" xmlns:ssbp="www.sparxsystems.com.au/bpmn20" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:di="http://www.omg.org/spec/DD/20100524/DI" xmlns:dc="http://www.omg.org/spec/DD/20100524/DC" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" exporter="Enterprise Architect" exporterVersion="14.1.1429" name="Logical Data Model">
+	<bpmn:process id="EAID_DP000000_84C6_4bbe_817F_EE982AC35590"/>
+	<bpmndi:BPMNDiagram id="EAID_228BD7D2_C5FA_4b6f_8C09_A905A18718FA" name="Logical Model">
+		<bpmndi:BPMNPlane id="EAID_PL000000_C5FA_4b6f_8C09_A905A18718FA" bpmnElement="EAID_DP000000_84C6_4bbe_817F_EE982AC35590">
+			<bpmndi:BPMNShape id="EAID_DO000000_C5FA_4b6f_8C09_A905A18718FA" bpmnElement="EAID_DD411C1A_8CD3_421d_B517_5CAA11ACBD02">
+				<dc:Bounds x="10" y="10" width="90" height="70"/>
+				<bpmndi:BPMNLabel id="EAID_LBL000000_8CD3_421d_B517_5CAA11ACBD02" labelStyle="EAID_LS000000_C5FA_4b6f_8C09_A905A18718FA">
+					<dc:Bounds x="0" y="10" width="287" height="15"/>
+				</bpmndi:BPMNLabel>
+			</bpmndi:BPMNShape>
+			<bpmndi:BPMNShape id="EAID_DO000001_C5FA_4b6f_8C09_A905A18718FA" bpmnElement="EAID_210E594C_A28F_4f49_8F3F_D92E7AC57F42">
+				<dc:Bounds x="560" y="688" width="398" height="634"/>
+				<bpmndi:BPMNLabel id="EAID_LBL000000_A28F_4f49_8F3F_D92E7AC57F42" labelStyle="EAID_LS000000_C5FA_4b6f_8C09_A905A18718FA">
+					<dc:Bounds x="0" y="10" width="287" height="15"/>
+				</bpmndi:BPMNLabel>
+			</bpmndi:BPMNShape>
+			<bpmndi:BPMNShape id="EAID_DO000002_C5FA_4b6f_8C09_A905A18718FA" bpmnElement="EAID_D63DD99B_BF3F_484b_8ED4_E68EB17C8841">
+				<dc:Bounds x="771" y="38" width="232" height="480"/>
+				<bpmndi:BPMNLabel id="EAID_LBL000000_BF3F_484b_8ED4_E68EB17C8841" labelStyle="EAID_LS000000_C5FA_4b6f_8C09_A905A18718FA">
+					<dc:Bounds x="0" y="10" width="287" height="15"/>
+				</bpmndi:BPMNLabel>
+			</bpmndi:BPMNShape>
+			<bpmndi:BPMNShape id="EAID_DO000003_C5FA_4b6f_8C09_A905A18718FA" bpmnElement="EAID_30FAD69A_C5E2_4ca6_AB61_F882AFA9AFE1">
+				<dc:Bounds x="1579" y="110" width="305" height="558"/>
+				<bpmndi:BPMNLabel id="EAID_LBL000000_C5E2_4ca6_AB61_F882AFA9AFE1" labelStyle="EAID_LS000000_C5FA_4b6f_8C09_A905A18718FA">
+					<dc:Bounds x="0" y="10" width="287" height="15"/>
+				</bpmndi:BPMNLabel>
+			</bpmndi:BPMNShape>
+			<bpmndi:BPMNShape id="EAID_DO000004_C5FA_4b6f_8C09_A905A18718FA" bpmnElement="EAID_0D79AE3A_30EB_4170_A209_862A8FA02013">
+				<dc:Bounds x="2" y="756" width="305" height="741"/>
+				<bpmndi:BPMNLabel id="EAID_LBL000000_30EB_4170_A209_862A8FA02013" labelStyle="EAID_LS000000_C5FA_4b6f_8C09_A905A18718FA">
+					<dc:Bounds x="0" y="10" width="287" height="15"/>
+				</bpmndi:BPMNLabel>
+			</bpmndi:BPMNShape>
+			<bpmndi:BPMNShape id="EAID_DO000005_C5FA_4b6f_8C09_A905A18718FA" bpmnElement="EAID_8EE299BF_1404_41b0_8F0E_23EDE1DE6590">
+				<dc:Bounds x="1168" y="866" width="430" height="852"/>
+				<bpmndi:BPMNLabel id="EAID_LBL000000_1404_41b0_8F0E_23EDE1DE6590" labelStyle="EAID_LS000000_C5FA_4b6f_8C09_A905A18718FA">
+					<dc:Bounds x="0" y="10" width="287" height="15"/>
+				</bpmndi:BPMNLabel>
+			</bpmndi:BPMNShape>
+			<bpmndi:BPMNShape id="EAID_DO000006_C5FA_4b6f_8C09_A905A18718FA" bpmnElement="EAID_45A18736_F9C9_46cd_B6E0_EB41D180D79B">
+				<dc:Bounds x="1830" y="845" width="283" height="454"/>
+				<bpmndi:BPMNLabel id="EAID_LBL000000_F9C9_46cd_B6E0_EB41D180D79B" labelStyle="EAID_LS000000_C5FA_4b6f_8C09_A905A18718FA">
+					<dc:Bounds x="0" y="10" width="287" height="15"/>
+				</bpmndi:BPMNLabel>
+			</bpmndi:BPMNShape>
+			<bpmndi:BPMNShape id="EAID_DO000007_C5FA_4b6f_8C09_A905A18718FA" bpmnElement="EAID_65F696FD_E8DF_480b_BA41_F2340FDAA25A">
+				<dc:Bounds x="531" y="1451" width="414" height="727"/>
+				<bpmndi:BPMNLabel id="EAID_LBL000000_E8DF_480b_BA41_F2340FDAA25A" labelStyle="EAID_LS000000_C5FA_4b6f_8C09_A905A18718FA">
+					<dc:Bounds x="0" y="10" width="287" height="15"/>
+				</bpmndi:BPMNLabel>
+			</bpmndi:BPMNShape>
+		</bpmndi:BPMNPlane>
+		<bpmndi:BPMNLabelStyle id="EAID_LS000000_C5FA_4b6f_8C09_A905A18718FA">
+			<dc:Font name="Calibri" size="8" isBold="false" isItalic="false" isUnderline="false" isStrikeThrough="false"/>
+		</bpmndi:BPMNLabelStyle>
+	</bpmndi:BPMNDiagram>
+</bpmn:definitions>
